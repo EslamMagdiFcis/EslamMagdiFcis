@@ -55,8 +55,8 @@ I am a skilled software engineer with over six years of experience building robu
 
 - **Email:** [eslam.magdi.fcis@gmail.com](mailto:eslam.magdi.fcis@gmail.com)
 - **Phone:** +20 1028-878-321
-- **LinkedIn:** [linkedin.com/in/eslam-magdi](https://linkedin.com/in/eslam-magdi)
-- **GitHub:** [github.com/eslam-magdi](https://github.com/eslam-magdi)
+- **LinkedIn:** [linkedin.com/in/eslam-magdi](https://www.linkedin.com/in/eslam-magdi-fcis/)
+- **GitHub:** [github.com/eslam-magdi](https://github.com/EslamMagdiFcis)
 
 ## 🗣️ Languages
 
